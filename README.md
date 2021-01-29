@@ -24,6 +24,8 @@ Navigate to your database panel with your preferred web browser.
 
 You can use [ngrok](https://ngrok.com/) to give your XAMPP a public address.
 
+---
+
 On web servers other than XAMPP (Apache) you might need to load `Multibyte String` librabry within PHP.
 
 In XAMPP it is as simple as uncommenting the `extension=mbstring` line in the `php.ini` file.
